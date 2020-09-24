@@ -8,5 +8,4 @@ def ft_oct_num(a):
         i *= 10
     return n
 
-
-#print(ft_oct_num(8))
+# print(ft_oct_num(8))

@@ -1,5 +1,6 @@
 import ft_rev_num
 
+
 def ft_bin_num(a):
     n = 0
     i = 1
@@ -10,5 +11,4 @@ def ft_bin_num(a):
         i *= 10
     return n
 
-
-#print(ft_bin_num(6))
+# print(ft_bin_num(6))

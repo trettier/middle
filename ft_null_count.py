@@ -6,5 +6,4 @@ def ft_null_count(a):
         a //= 10
     return n
 
-
-#print(ft_null_count(1020))
+# print(ft_null_count(1020))
